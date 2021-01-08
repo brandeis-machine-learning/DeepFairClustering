@@ -2,12 +2,10 @@
 # @Contact : peizhaoli05@gmail.com
 
 import numpy as np
-from collections import OrderedDict
 
 import torch
 from torch import nn
 from torch.nn import Parameter
-from torchvision import models
 
 from utils import init_weights
 
